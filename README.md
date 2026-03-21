@@ -10,7 +10,6 @@ conda env create -f env.yaml
 
 - Download checkpoints
 
-  In compliance with the requirements for External Links specified in the CVPR 2026 Author Guidelines and the file size limit for supplementary materials, access to our evaluation model will be provided upon acceptance.
 
 
 - Download datasets
